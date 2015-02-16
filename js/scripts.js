@@ -23,6 +23,7 @@ $(document).ready(function() {
       $(".first-name").text(newContact.firstName);
       $(".last-name").text(newContact.lastName);
       $(".address").text(newContact.address);
+      
     });
   });
 });
